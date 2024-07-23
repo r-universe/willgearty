@@ -5,3 +5,7 @@
 [submodule "deeptime"]
 	path = deeptime
 	url = https://github.com/willgearty/deeptime
+[submodule "rmacrostrat"]
+	path = rmacrostrat
+	url = https://github.com/palaeoverse/rmacrostrat
+	registered = false
