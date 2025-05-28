@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/willgearty/willgearty.r-universe.dev
 	branch = HEAD
 [submodule "deeptime"]
 	path = deeptime
@@ -8,3 +8,21 @@
 [submodule "deeptimedata"]
 	path = deeptimedata
 	url = https://github.com/willgearty/deeptimedata
+[submodule "palaeoverse"]
+	path = palaeoverse
+	url = https://github.com/palaeoverse/palaeoverse
+[submodule "pcmtools"]
+	path = pcmtools
+	url = https://github.com/willgearty/pcmtools
+[submodule "rmacrostrat"]
+	path = rmacrostrat
+	url = https://github.com/palaeoverse/rmacrostrat
+[submodule "rphylopic"]
+	path = rphylopic
+	url = https://github.com/palaeoverse/rphylopic
+[submodule "rredlist"]
+	path = rredlist
+	url = https://github.com/ropensci/rredlist
+[submodule "shinypal"]
+	path = shinypal
+	url = https://github.com/willgearty/shinypal
