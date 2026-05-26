@@ -23,6 +23,9 @@
 [submodule "rredlist"]
 	path = rredlist
 	url = https://github.com/ropensci/rredlist
+[submodule "shinymeta"]
+	path = shinymeta
+	url = https://github.com/willgearty/shinymeta
 [submodule "shinypal"]
 	path = shinypal
 	url = https://github.com/willgearty/shinypal
